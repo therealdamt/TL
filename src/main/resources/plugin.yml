@@ -1,0 +1,9 @@
+name: Tl
+version: ${project.version}
+main: xyz.damt.tl.Tl
+api-version: 1.16
+authors: [damt]
+description: damt
+website: damt
+commands:
+  tl:
